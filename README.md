@@ -9,6 +9,10 @@ and which spectra you want to compute (as defined in [arxiv:1209.5722](https://a
 Run it as ``python3 get_spectrum_2v2b.py``
 
 --- 
+**Disclaimer:**
+It might be that in this v1 the overall normalization is not correct. Use these distributions just as probability distributions. 
+
+--- 
 **Contact for additions, comments and suggestions:**
 Xabier Marcano (xabier.marcano@uam.es)
 
